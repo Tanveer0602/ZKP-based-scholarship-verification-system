@@ -1,7 +1,3 @@
-Here’s a clear, structured, and professional `README.md` template for your **Scholarship Model with EZKL Zero-Knowledge Inference** project. It explains each step with meaningful context, making it great for GitHub and understandable to contributors or reviewers.
-
----
-
 # 🎓 Scholarship Decision Model with Zero-Knowledge Proofs (EZKL)
 
 This project demonstrates how to build a **privacy-preserving scholarship eligibility model** using [EZKL](https://github.com/zkonduit/ezkl), a framework for generating zero-knowledge proofs of AI model inference. We implement a simple rule-based model and create verifiable proofs that a candidate meets the scholarship criteria—**without revealing sensitive information**.
